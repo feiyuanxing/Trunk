@@ -5,5 +5,7 @@
 	<classpathentry kind="lib" path="libs/jnotify/jnotify-0.93-src.zip"/>
 	<classpathentry kind="lib" path="libs/jnotify/jnotify-0.93.jar"/>
 	<classpathentry kind="lib" path="libs/jnotify/jnotify-native-win32-0.93-src.zip"/>
+	<classpathentry kind="lib" path="libs/apache commons/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="libs/jnotify/jnotify-native-linux-0.93-src.zip"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
